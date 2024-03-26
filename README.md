@@ -1,4 +1,4 @@
-# [Prefeito] <img src="https://i.gifer.com/origin/52/524246e9f66085a32b9cd46aedab9266_w200.gif" width="70px">
+# [Prefeito] <img src="https://media.tenor.com/NIToEyu9Uv0AAAAM/joaocampos-jo%C3%A3ocampos.gif" width="200px">
 
 Eu sou <strong>Marvyn Luiz</strong>,<strong></strong> 👨🏻‍💻 
 
