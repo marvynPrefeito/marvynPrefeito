@@ -2,7 +2,15 @@
 
 Eu sou <strong>Marvyn Luiz</strong>,<strong></strong> 👨🏻‍💻 
 
-💻 Formação em andamento: <strong>Estudando desenvolvimento de sistemas, com foco em crescimento técnico e criação de soluções eficientes.<strong><strong> 
-📚 Interesses pessoais: <strong> Gosto de discutir sobre cinema, novelas brasileiras, literatura e também valorizo os momentos de descanso. <strong>
-🌐 Comunicação: <strong> Português fluente, inglês básico e atualmente treinando francês. <strong>
+## 👋 Sobre mim
 
+💻 **Formação em andamento:**  
+Atualmente estudando **Desenvolvimento de Sistemas**, com foco no crescimento técnico e na criação de soluções eficientes e funcionais.
+
+📚 **Interesses pessoais:**  
+Sou apaixonado por boas histórias! Gosto de conversar sobre **cinema**, **novelas brasileiras**, **literatura** e também valorizo os momentos de **descanso e autocuidado**.
+
+🌐 **Idiomas:**  
+- Português (fluente)  
+- Inglês (básico)  
+- Francês (em aprendizado)
