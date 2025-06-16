@@ -3,5 +3,5 @@
 Eu sou <strong>Marvyn Luiz</strong>,<strong></strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>aprendendo desenvolvimento de sistemas</strong> 
-- 💬 Pergunte-me sobre: <strong>Assistir filmes de terror e novelas brasileiras, dormir, ler</strong>
-- 📣 Nós podemos falar em: <strong>Português</strong>
+- 💬 Pergunte-me sobre: <strong>Assistir filmes, novelas brasileiras, dormir e ler</strong>
+- 📣 Nós podemos falar em: <strong>Português, inglês e francês</strong>
