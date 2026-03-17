@@ -7,10 +7,7 @@ Eu sou <strong>Marvyn Luiz Barros da Silva</strong>,<strong></strong> 👨🏻�
 📚 **Interesses pessoais:**  
 Sou apaixonado por boas histórias! Gosto de conversar sobre **cinema**, **novelas brasileiras**, **literatura** e também valorizo os momentos de **descanso e autocuidado**.
 
-🌐 **Idiomas:**  
-- Português (fluente)  
-- Inglês (básico)  
-- Francês (em aprendizado)
+
 
 
 
