@@ -1,11 +1,8 @@
 # [Prefeito] <img src="https://media.tenor.com/xLOwAJlw6jIAAAAM/excited-omg.gif" width="200px">
 
-Eu sou <strong>Marvyn Luiz</strong>,<strong></strong> 👨🏻‍💻 
+Eu sou <strong>Marvyn Luiz Barros da Silva</strong>,<strong></strong> 👨🏻‍💻 
 
 ## 👋 Sobre mim
-
-💻 **Formação em andamento:**  
-Atualmente estudando **Desenvolvimento de Sistemas**, com foco no crescimento técnico e na criação de soluções eficientes e funcionais.
 
 📚 **Interesses pessoais:**  
 Sou apaixonado por boas histórias! Gosto de conversar sobre **cinema**, **novelas brasileiras**, **literatura** e também valorizo os momentos de **descanso e autocuidado**.
