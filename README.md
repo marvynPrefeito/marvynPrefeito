@@ -1,4 +1,4 @@
-# [Prefeito] <img src="https://media.tenor.com/xLOwAJlw6jIAAAAM/excited-omg.gif" width="200px">
+<img src="https://media.tenor.com/xLOwAJlw6jIAAAAM/excited-omg.gif" width="200px">
 
 Eu sou <strong>Marvyn Luiz Barros da Silva</strong>,<strong></strong> 👨🏻‍💻 
 
