@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+
 <img src="https://media.tenor.com/xLOwAJlw6jIAAAAM/excited-omg.gif" width="200px">
 
 Eu sou <strong>Marvyn Luiz Barros da Silva</strong>,<strong></strong> 👨🏻‍💻 
@@ -32,5 +34,7 @@ Sou apaixonado por boas histórias! Gosto de conversar sobre **cinema**, **novel
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marvynPrefeito&icon=0&color=4)](https://visitcount.itsvg.in)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
